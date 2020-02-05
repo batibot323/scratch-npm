@@ -1,6 +1,6 @@
 {
   "name": "scratch-npm",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~8.2.14",
     "@angular/common": "~8.2.14",
@@ -43,5 +43,20 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batibot323/scratch-npm.git"
+  },
+  "keywords": [
+    "scratch"
+  ],
+  "author": "Hani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batibot323/scratch-npm/issues"
+  },
+  "homepage": "https://github.com/batibot323/scratch-npm#readme"
 }
